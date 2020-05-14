@@ -1,0 +1,11 @@
+linters:
+    enable-all: true
+    disable:
+        - goimports
+        - maligned
+        - gochecknoglobals
+        - gochecknoinits
+        - gosec
+
+issues:
+    exclude-use-default: true
