@@ -3,7 +3,7 @@ module golang-getting-started
 go 1.12
 
 require (
-	github.com/aws/aws-sdk-go v1.25.22
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/google/uuid v1.1.1
 	github.com/joho/godotenv v1.3.0
