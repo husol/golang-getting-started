@@ -13,5 +13,5 @@ require (
 	github.com/mattn/go-isatty v0.0.7 // indirect
 	github.com/prometheus/common v0.9.1
 	github.com/valyala/fasttemplate v1.0.1 // indirect
-	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 )
